@@ -10,6 +10,8 @@ knitr::opts_chunk$set(echo = TRUE)
 Type your name (or anything else) HERE: 
 Imani hgfhgfhgf
 
+
+hi
 Here's some code (change the variable names and values):
 ```{r}
 # Change these variable names and values:
